@@ -1,5 +1,3 @@
-<p align="center">   <img src="https://avatars.githubusercontent.com/u/186422981?s=200&v=4" alt="Nile Maqra'a"> </p>
-
 # 🌿 Nile Maqra'a
 
 > **Good companionship, around the Quran, toward lasting impact.**
